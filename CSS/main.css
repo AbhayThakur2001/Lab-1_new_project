@@ -1,0 +1,43 @@
+h2 {
+    color:aliceblue;
+    background-color: rgb(205, 151, 50);
+    text-align: center;
+    font-size: 100px;
+}
+#custom-header{
+    color: rgb(199, 222, 135);
+    font-size: 20px;
+    background-color: beige;
+}
+.p3{
+    background-color: rgb(42, 165, 104);
+}
+.text-properties{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    text-align: center;
+    text-decoration:underline;
+    text-transform: uppercase;
+    text-shadow: 2px 2px #f00;
+
+}
+.text-para {
+    text-decoration: line-through;
+}
+
+.block{
+    background-color: grey;
+    text-align: center;
+    color: rgb(0, 102, 128);
+    width: 100%;
+    height: 230px;
+    margin-left: 30%;
+    padding-left: 30%;
+    padding-top: 10%S;
+    padding-right: 0%;
+
+    border: 2px solid rgb(8, 6, 6);
+    border-radius: 10px;
+
+}
